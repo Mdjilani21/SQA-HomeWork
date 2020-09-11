@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11004" started-at="2020-09-11T02:54:02 BDT" finished-at="2020-09-11T02:54:13 BDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11004" started-at="2020-09-11T02:54:02 BDT" finished-at="2020-09-11T02:54:13 BDT">
+      <class name="Frame.FrameHW">
+        <test-method status="PASS" signature="main()[pri:0, instance:Frame.FrameHW@568bf312]" name="main" duration-ms="10940" started-at="2020-09-11T02:54:02 BDT" finished-at="2020-09-11T02:54:13 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- Frame.FrameHW -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
